@@ -1,0 +1,19 @@
+p {
+  color: #ff0000;
+}
+header {
+  display:block;
+  color: black;
+  background-color: #add8e6;
+}
+ div {
+   border: 6px outset red;
+  background-color: lightblue;
+  text-align: center;
+ }
+h2 {
+  display:block;
+  color:green
+  background-color: gray;
+  text-align: center;
+}
